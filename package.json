@@ -12,6 +12,7 @@
     "canvas": "^2.6.1",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "mongoose": "^5.11.15"
+    "mongoose": "^5.11.15",
+    "node-pre-gyp": "^0.17.0"
   }
 }
